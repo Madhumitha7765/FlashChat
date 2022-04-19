@@ -1,6 +1,6 @@
 # flashchat
 
-A new Flutter project.
+A real time chat application developed using Flutter SDK in Dart programming that enables group chat with multiple users and its is deployed as an apk. Firebase is used for authentication of users' login and registration. The messages sent and received through the app are stored in Firestore Database.
 
 ## Getting Started
 
